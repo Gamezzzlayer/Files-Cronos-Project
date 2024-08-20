@@ -1,0 +1,7 @@
+# Files-Cronos-Project
+Roles:
+1. Flavio Jorge Luis Espinoza Cáceres  - programador (lider).
+2. Piero Alessandro Alvarez Valencia- arquitecto de software.
+3. Alexander Gutierrez Patiño - analista funcional.
+4. Diego Fernando Aguilar Melgar - administrador de base de datos (sublíder).
+5. Rodrigo Alberto Carmona Almeda - tester de software.
